@@ -27,9 +27,3 @@
 *.exe
 *.out
 *.app
-
-# Temp files
-*.swp
-template.cpp
-input.txt
-
